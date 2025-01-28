@@ -13,5 +13,5 @@ square_this(x)
 Title
 }
 \examples{
-square(10)
+square_this(10)
 }
