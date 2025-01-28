@@ -21,7 +21,7 @@
 #' @export
 #'
 #' @examples
-#' square(10)
+#' square_this(10)
 square_this <- function(x) {
   return(x*x)
 
