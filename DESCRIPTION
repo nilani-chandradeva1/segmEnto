@@ -3,7 +3,7 @@ Type: Package
 Title: Simplying mosquito behaviour surveillance
 Version: 0.1.0
 Author: Nilani Chandradeva, Elizabeth Pretorius, Joseph D Challenger, Thomas S. Churcher and Ellie Sherrard-Smith
-Maintainer: Nilani Chandradeva nilanic@gmail.com
+Maintainer: Nilani Chandradeva <nilanic@gmail.com>
 Description: More about what it does (maybe more than one line)
     Use four spaces when indenting paragraphs within the Description.
 License: MIT + file LICENSE
@@ -13,3 +13,4 @@ Suggests:
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.3.0
+URL: https://nilani-chandradeva1.github.io/segmEnto/
